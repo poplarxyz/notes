@@ -9,3 +9,6 @@
 ## insert
 
 - u Ctrl+r
+
+## tab
+- tab to spacae : set et && set et!

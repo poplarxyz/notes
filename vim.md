@@ -12,3 +12,8 @@
 
 ## tab
 - tab to spacae : set et && set et!
+- replace exist sapace or tab: %retab!
+
+## tips
+- ZZ == :wq
+- zz redraw the screen and center the cursor

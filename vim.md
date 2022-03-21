@@ -17,3 +17,7 @@
 ## tips
 - ZZ == :wq
 - zz redraw the screen and center the cursor
+
+## muti-file
+- '''ls''' view file list
+- '''b number''' enter file

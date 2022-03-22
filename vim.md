@@ -6,6 +6,9 @@
 - d dd d^ d$
 - x,y m z
 
+## yank
+- y 
+
 ## insert
 
 - u Ctrl+r

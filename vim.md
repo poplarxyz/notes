@@ -24,3 +24,7 @@
 ## muti-file
 - '''ls''' view file list
 - '''b number''' enter file
+
+## line break visable
+- '''set list'''
+- '''nolist'''

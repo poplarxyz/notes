@@ -22,9 +22,9 @@
 - zz redraw the screen and center the cursor
 
 ## muti-file
-- 'ls' view file list
-- 'b number' enter file
+- `ls` view file list
+- `b number` enter file
 
 ## line break visable
-- 'set list'
-- 'nolist'
+- `set list`
+- `nolist`
